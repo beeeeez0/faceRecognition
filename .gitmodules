@@ -1,0 +1,3 @@
+[submodule "data/cat-dataset"]
+	path = data/cat-dataset
+	url = https://github.com/AnnikaV9/cat-dataset.git
